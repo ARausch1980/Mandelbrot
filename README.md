@@ -1,6 +1,6 @@
 ## Mandelbrot Fractal Viewer
 
-This applet enables you to explore the infinitely generating visuals of the Mandelbrot fractal. By clicking, dragging, then releasing (no selection box will appear, but the program retains the start and end points) you can inifnitely zoom into any region on the fractal (the view will refresh after a few seconds of recalculation).
+This applet enables you to explore the infinitely generating visuals of the Mandelbrot fractal. By clicking, dragging, then releasing (no selection box will appear, but the program retains the start and end points) you can infinitely zoom into any region on the fractal (the view will refresh after a few seconds of recalculation).
 
 ![Mandelbrot2](https://github.com/sashaouellet/Mandelbrot/blob/master/Mandelbrot2.png "Mandelbrot2")
 
